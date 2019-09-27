@@ -194,6 +194,10 @@ Header h2 {
   animation: fadeOut 1s;
 }
 
+.movie-list-item-exited {
+  opacity: 0;
+}
+
 .movie-list-item:first-child {
   border-top-right-radius: 10px;
   border-top-left-radius: 10px;
